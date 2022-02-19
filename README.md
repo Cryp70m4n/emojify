@@ -1,2 +1,3 @@
 # emojify
-Little python script which search for emojis you are looking for using https://m3o.com api for emojis, you can modify it for your own needs
+Little python script which purpose is to search for emojis you are looking for using https://m3o.com api.
+ - *Script should be modifed for your own needs.*
